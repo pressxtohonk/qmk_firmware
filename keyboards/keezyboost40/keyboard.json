@@ -1,6 +1,6 @@
 {
-    "manufacturer": "pressxtohonk",
-    "keyboard_name": "keezyboost40",
+    "manufacturer": "Dell Computer Corp.",
+    "keyboard_name": "KB216 Wired Keyboard",
     "maintainer": "pressxtohonk",
     "development_board": "promicro_rp2040",
     "diode_direction": "COL2ROW",
@@ -16,10 +16,10 @@
     },
     "url": "",
     "usb": {
-        "device_version": "1.0.0",
-        "pid": "0x0003",
-        "vid": "0xBEAF"
-    },
+        "vid": "0x413C",
+        "pid": "0x2113",
+        "device_version": "1.0.8"
+    }
     "layouts": {
         "LAYOUT": {
             "layout": [
